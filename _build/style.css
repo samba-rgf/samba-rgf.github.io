@@ -55,11 +55,11 @@ header .container {
 	justify-content: space-between;
 	align-items: center;
 }
-header a {
-	margin-left: 2em;
-}
 .quick-contact {
 	display: none;
+}
+.quick-contact a {
+	margin-left: 2em;
 }
 
 footer {
