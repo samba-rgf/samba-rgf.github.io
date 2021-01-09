@@ -11,11 +11,11 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 1.5em;
 	margin-bottom: 0.5rem;
 	font-weight: normal;
-	color: #024;
+	color: #002b9a;
 }
 
 a {
-	color: #07c;
+	color: #002b9a;
 }
 
 .brand {
@@ -32,7 +32,7 @@ a {
 
 footer,
 header {
-	background: #07c;
+	background: #002b9a;
 	color: #fff;
 	padding: 1.5em 0;
 }
